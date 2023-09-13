@@ -1,0 +1,12 @@
+{
+  "name": "com.dasannikov.superlib",
+  "author": "Dmitrii Sannikov",
+  "displayName": "SuperLib",
+  "description": "SuperLib - GitHub Example",
+  "unity": "2022.3",
+  "version": "2023.9.13",
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}
